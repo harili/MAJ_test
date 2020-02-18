@@ -66,7 +66,7 @@ public class FMajEx extends javax.swing.JFrame {
                 btnChoisir2ActionPerformed(evt);
             }
         });
-        jPanel1.add(btnChoisir2, new org.netbeans.lib.awtextra.AbsoluteConstraints(270, 130, 100, -1));
+        jPanel1.add(btnChoisir2, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 130, 100, -1));
 
         txtNomFichier.setEnabled(false);
         txtNomFichier.addActionListener(new java.awt.event.ActionListener() {
