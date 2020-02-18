@@ -1,0 +1,300 @@
+
+Début d'exécution de la requête : /****** Script de la commande SelectTopNRows � partir de SSMS  ******/update [exfiles].[dbo].[P_INI] set valeurIni = '4.0.12' where codeIni = 'version';
+  -> DEBUG 12/02/20 09:18:47 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:51)
+
+Fin d'exécution de la requête
+  -> DEBUG 12/02/20 09:18:47 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:55)
+
+Début d'exécution de la requête : /****** Script de la commande SelectTopNRows � partir de SSMS  ******/update [exfiles].[dbo].[P_INI] set valeurIni = '4.0.12' where codeIni = 'version';
+  -> DEBUG 12/02/20 09:21:22 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:51)
+
+Fin d'exécution de la requête
+  -> DEBUG 12/02/20 09:21:22 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:55)
+
+Début d'exécution de la requête : /****** Script de la commande SelectTopNRows � partir de SSMS  ******/update [exfiles].[dbo].[P_INI] set valeurIni = '4.0.12' where codeIni = 'version';
+  -> DEBUG 12/02/20 09:22:21 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:51)
+
+Fin d'exécution de la requête
+  -> DEBUG 12/02/20 09:22:21 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:55)
+
+Début d'exécution de la requête : /****** Script de la commande SelectTopNRows � partir de SSMS  ******/update [exfiles].[dbo].[P_INI] set valeurIni = '4.0.12' where codeIni = 'version';
+  -> DEBUG 12/02/20 09:23:59 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:51)
+
+Fin d'exécution de la requête
+  -> DEBUG 12/02/20 09:23:59 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:55)
+
+Début d'exécution de la requête : /****** Script de la commande SelectTopNRows � partir de SSMS  ******/update [exfiles].[dbo].[P_INI] set valeurIni = '4.0.12' where codeIni = 'version';
+  -> DEBUG 12/02/20 09:34:38 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:51)
+
+Fin d'exécution de la requête
+  -> DEBUG 12/02/20 09:34:38 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:55)
+
+Début d'exécution de la requête : /****** Script de la commande SelectTopNRows � partir de SSMS  ******/update [exfiles].[dbo].[P_INI] set valeurIni = '4.0.12' where codeIni = 'version';
+  -> DEBUG 12/02/20 11:33:04 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:51)
+
+Fin d'exécution de la requête
+  -> DEBUG 12/02/20 11:33:04 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:55)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:09:27 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 12/02/20 12:10:52 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:43)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:10:52 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 12/02/20 12:13:59 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:43)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:13:59 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 12/02/20 12:15:03 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:43)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:15:03 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 12/02/20 12:15:41 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:43)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:15:41 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 12/02/20 12:16:41 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:43)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:16:41 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 12/02/20 12:19:55 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:43)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:19:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:27:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:28:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:28:28 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:29:33 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:29:59 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:30:38 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:31:09 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 12:31:24 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 12/02/20 16:39:20 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:43)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Début d'exécution de la requête : /****** Script de la commande SelectTopNRows � partir de SSMS  ******/update [exfiles].[dbo].[P_INI] set valeurIni = '4.0.12' where codeIni = 'version';
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:51)
+
+Fin d'exécution de la requête
+  -> DEBUG 12/02/20 16:39:43 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:55)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 12/02/20 19:33:02 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:43)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:02 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:33:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 12/02/20 19:56:46 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:43)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 12/02/20 19:56:46 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
