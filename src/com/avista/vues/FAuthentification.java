@@ -143,11 +143,11 @@ public class FAuthentification extends javax.swing.JFrame {
 //     **************************************************************
     
     private void btnConnexionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnConnexionActionPerformed
-        String res = unUtilisateurControleur.authentifierUtilisateur(txtLogin.getText(), txtMdp.getText());
-        lblMessageConnexion.setText(res);
+        String res = unUtilisateurControleur.authentifierUtilisateur(txtLogin.getText(), txtMdp.getText()); //saisis des identifiants
+        lblMessageConnexion.setText(res); //écrire s'il y a une erreur
 
-        if(res.equals("Ok")){
-            FPostMAJ fenetPostMAJ = new FPostMAJ();
+        if(res.equals("Ok")){   //si c'est bon
+            FPostMAJ fenetPostMAJ = new FPostMAJ(); //ouverture de la fenêtre suivante
             this.setVisible(false);
             
             fenetPostMAJ.setVisible(true);

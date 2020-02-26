@@ -41,8 +41,8 @@ public class PiniDAO extends DAO implements IPiniDAO {
          
          }
          catch(SQLException e){
-             logger.error(e);
-         }finally{return res;}
+             logger.error(e); //si une erreur survient
+         }finally{return res;}//retourne le résultat
     
     
     

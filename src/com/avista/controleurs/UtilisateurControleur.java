@@ -38,7 +38,7 @@ public class UtilisateurControleur {
         if(res){ //si res est vrai
             return "Ok";
         }
-        return "Login ou Mot de passe Incorrect";
+        return "Login et/ou Mot de passe Incorrect";
         
         
     }

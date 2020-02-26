@@ -98,33 +98,39 @@ public class FMajEx extends javax.swing.JFrame {
     private void txtNomFichierActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtNomFichierActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_txtNomFichierActionPerformed
-
+    
+    /**
+     * Procédure qui permet d'ouvrir un gestionnaire de fichier et de n'afficher que les fichiers .sql
+     */
     private void btnChoisir1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnChoisir1ActionPerformed
-         JFileChooser choixF = new  JFileChooser();
-         FileNameExtensionFilter filter = new FileNameExtensionFilter("SQL","sql");
+         JFileChooser choixF = new  JFileChooser(); 
+         FileNameExtensionFilter filter = new FileNameExtensionFilter("SQL","sql");//filtre
          choixF.setFileFilter(filter);
          choixF.showOpenDialog(null);
          
         
-         String chemin = choixF.getSelectedFile().getPath();
+         String chemin = choixF.getSelectedFile().getPath(); //récupération du chemin
          complet = chemin;
-        txtNomFichier.setText((complet));
+        txtNomFichier.setText((complet)); //écriture du chemins
         
     }//GEN-LAST:event_btnChoisir1ActionPerformed
-    public String getComplet(){
+    
+    public String getComplet(){ //Un accesseur de type getter, pour récupérer le chemin
         return this.complet;
     }
     
-    //Lecture du script permettant l'upgrade de version
+    /**
+     * lecture du script permettant l'upgrade de la version d'eXfiles
+     */
     private void btnChoisir2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnChoisir2ActionPerformed
 
           
-          if(uneMajEx.versionAjour(complet)){
-              FVersionAJour unFenet = new FVersionAJour();
+          if(uneMajEx.versionAjour(complet)){ //Si la version correspondant à la dernière
+              FVersionAJour unFenet = new FVersionAJour(); //ouverture de la fenêtre
               unFenet.setVisible(true);
           }
           else{
-            uneMajEx.controleScript(complet);
+            uneMajEx.controleScript(complet); // sinon, ouverture de la fenêtre d'exécution des requêtes du script.
           }
     
 

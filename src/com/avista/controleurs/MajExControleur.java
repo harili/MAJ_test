@@ -19,7 +19,7 @@ import com.avista.vues.FScriptExecute;
  */
 public class MajExControleur {
     
-    //création d'objets (constructeurs, vue..)
+    //création d'objets (constructeurs, vues..)
     PiniDAO unPiniDAO = new PiniDAO(); 
     
     MajExDAO uneMajExDAO = new MajExDAO(); 
@@ -34,26 +34,23 @@ public class MajExControleur {
         
         BufferedReader br = null; //variabale lecture texte
         ArrayList<String> listRequete = new ArrayList<String>(); //création d'une liste
-        
-       
+ 
         try {
          String sCurrentLine; //ligne courante
          br = new BufferedReader(new FileReader(chemin)); //lecture du fichier
          String ligneFinale = ""; //dernière ligne lue
          
          while ((sCurrentLine = br.readLine()) != null) { //tant que la ligne courante n'est pas vide
-            if(!sCurrentLine.startsWith("--") && !sCurrentLine.equals("GO") && !sCurrentLine.equals("/") && !sCurrentLine.equals("*")){ //ne pas prendre en compte ces caractères
+            if(!sCurrentLine.startsWith("--") && !sCurrentLine.equals("GO") && !sCurrentLine.equals("/") 
+                    && !sCurrentLine.equals("*")){ //ne pas prendre en compte ces caractères
+                
                 ligneFinale = ligneFinale.concat(sCurrentLine); //concaténation de la chaine vide avec la ligne courante
                 if(sCurrentLine.contains(";")){ //s'il y a présence du ";"
                     
                     listRequete.add(ligneFinale); //ajouter celle - ci à la liste
-                    ligneFinale = ""; //réinitialisation
-                    
-                }   
-                
-                
-            }
-            
+                    ligneFinale = ""; //réinitialisation    
+                }                 
+            }          
          }
          
          if(!listRequete.isEmpty()){ //si la liste est vide
@@ -61,9 +58,9 @@ public class MajExControleur {
              String message = ""; // message
 
              for(String uneRequete : listRequete){ //parcours de la liste des requêtes 
-                 message += uneRequete +"est en cours d'exécution"; // 
+                 message += uneRequete +" "+" est en cours d'exécution"; // 
                  uneMajExDAO.executeRequete(uneRequete); //appel de la fonction DAO permettant l'exécution d'une requête 
-                 message += " | " + "l'exécution a bien été effectué "; //fin
+                 message += "  |  " + "  l'exécution a bien été effectué "; //fin
                  
                  fenetScript.getTxtScript().setText(message); //écriture du message
           

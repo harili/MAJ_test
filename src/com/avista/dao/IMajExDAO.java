@@ -11,7 +11,10 @@ import java.util.ArrayList;
  * @author chafy
  */
 public interface IMajExDAO {
-    
+        //     ********************************************************
+//              Interface contenant les signatures des méthodes 
+//              qui seront utilisées dans MajExDAO
+//     ********************************************************
     public void executeScript(ArrayList<String> listRequete);
     
 }

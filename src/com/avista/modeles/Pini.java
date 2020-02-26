@@ -25,6 +25,10 @@ public class Pini {
         this.valeurIni = valeurIni;
     }
 
+    
+    //     ********************************************************
+//          Accesseurs - Getters/Setters
+//     ********************************************************
     public int getIdIni() {
         return idIni;
     }

@@ -11,18 +11,18 @@ import java.awt.Dimension;
  *
  * @author chafy
  */
-public class FPostMAJ extends javax.swing.JFrame {
+public class FPreMAJ extends javax.swing.JFrame {
     
     PiniControleur unPinitC = new PiniControleur();
 
     /**
      * Creates new form FPostMAJ
      */
-    public FPostMAJ() {
+    public FPreMAJ() {
         initComponents(); //initialisation des composants (labels, textboxs..)
-        this.setTitle("Exfiles_MAJ : Mise à jour d'eXfiles");
+        this.setTitle("Exfiles_MAJ : Fin Mise à jour d'eXfiles");
         this.setLocationRelativeTo(null);
-        this.setSize(new Dimension(470, 286));
+        this.setSize(new Dimension(460, 286));
         lblDerniereVersion.setText(unPinitC.VersionActuelle()); //écriture (à partir du label) de la version
         setResizable(false);
     }
@@ -38,11 +38,11 @@ public class FPostMAJ extends javax.swing.JFrame {
 
         jPanel1 = new javax.swing.JPanel();
         jLabel1 = new javax.swing.JLabel();
-        btnRechercheMAJ = new javax.swing.JButton();
         jLabel6 = new javax.swing.JLabel();
         jLabel7 = new javax.swing.JLabel();
         lblDerniereVersionCons = new javax.swing.JLabel();
         lblDerniereVersion = new javax.swing.JLabel();
+        jToggleButton1 = new javax.swing.JToggleButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -53,36 +53,32 @@ public class FPostMAJ extends javax.swing.JFrame {
         jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\chafy\\Desktop\\avist.png")); // NOI18N
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(12, 22, -1, -1));
 
-        btnRechercheMAJ.setText("Mettre à jour");
-        btnRechercheMAJ.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                btnRechercheMAJActionPerformed(evt);
-            }
-        });
-        jPanel1.add(btnRechercheMAJ, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 130, 110, -1));
-
         jLabel6.setIcon(new javax.swing.ImageIcon("C:\\Users\\chafy\\Desktop\\bandebleu.PNG")); // NOI18N
-        jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 230, 410, 30));
+        jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 230, 410, 30));
 
         jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\chafy\\Desktop\\bandebleu.PNG")); // NOI18N
         jPanel1.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 230, -1, 30));
 
-        lblDerniereVersionCons.setText("La version actuelle :");
-        jPanel1.add(lblDerniereVersionCons, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 70, 120, 20));
+        lblDerniereVersionCons.setText("La dernière version d'eXFiles :");
+        jPanel1.add(lblDerniereVersionCons, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 70, 200, 20));
         jPanel1.add(lblDerniereVersion, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 100, 114, 20));
 
-        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 470, 250));
+        jToggleButton1.setText("Quitter");
+        jToggleButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton1ActionPerformed(evt);
+            }
+        });
+        jPanel1.add(jToggleButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 140, -1, -1));
+
+        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 460, 250));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void btnRechercheMAJActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnRechercheMAJActionPerformed
-        
-        
-        FSaveMAJ uneFen = new FSaveMAJ(); //création objet
-        this.setVisible(false); //fermeture fenêtre
-        uneFen.setVisible(true); //ouverture de celle instancier
-    }//GEN-LAST:event_btnRechercheMAJActionPerformed
+    private void jToggleButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton1ActionPerformed
+        System.exit(0);
+    }//GEN-LAST:event_jToggleButton1ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -101,30 +97,31 @@ public class FPostMAJ extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(FPostMAJ.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(FPreMAJ.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(FPostMAJ.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(FPreMAJ.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(FPostMAJ.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(FPreMAJ.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(FPostMAJ.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(FPreMAJ.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new FPostMAJ().setVisible(true);
+                new FPreMAJ().setVisible(true);
             }
         });
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton btnRechercheMAJ;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JPanel jPanel1;
+    private javax.swing.JToggleButton jToggleButton1;
     private javax.swing.JLabel lblDerniereVersion;
     private javax.swing.JLabel lblDerniereVersionCons;
     // End of variables declaration//GEN-END:variables

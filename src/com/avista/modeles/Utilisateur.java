@@ -23,6 +23,10 @@ public class Utilisateur {
         this.login = login;
         this.mdp = mdp;
     }
+    
+        //     ********************************************************
+//          Accesseurs - Getters/Setters
+//     ********************************************************
 
     public String getLogin() {
         return login;

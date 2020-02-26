@@ -15,6 +15,9 @@ import org.apache.log4j.Logger;
  * @author chafy
  */
 public class ScriptExfilesDAO extends DAO implements IScriptExfilesDAO {
+        //     ********************************************************
+//              DAO le stockage des exécutions permettant un accès à la BDD
+//     ********************************************************
     final static Logger logger = LogManager.getLogger(ScriptExfilesDAO.class);
     @Override
     public void saveExfilesBDD(){

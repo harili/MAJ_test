@@ -22,9 +22,8 @@ public class UtilisateurDAO extends DAO implements IUtilisateurDAO{
     
     
 //     ********************************************************
-//          Utilisation de la fonction présente dans l'interface
-//          Fonction qui retourne true ou false .
-//          si elle trouve le login et le mdp saisi dans la table de la bdd
+//          Fonction qui renvoie true si elle trouve le login et le mdp correcte. 
+//          False dans le cas contraire
 //     ********************************************************
     public boolean authentifierUtilisateur(Utilisateur unUtilisateur){
         

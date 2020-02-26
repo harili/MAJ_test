@@ -56,6 +56,7 @@ public class FScriptExecute extends javax.swing.JFrame {
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 20, -1, -1));
 
         txtScript.setColumns(20);
+        txtScript.setFont(new java.awt.Font("Monospaced", 0, 18)); // NOI18N
         txtScript.setRows(5);
         txtScript.setEnabled(false);
         jScrollPane1.setViewportView(txtScript);
@@ -85,7 +86,8 @@ public class FScriptExecute extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnOuiActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnOuiActionPerformed
-        System.exit(0);
+        FPreMAJ unFenet = new FPreMAJ();
+        unFenet.setVisible(true);
     }//GEN-LAST:event_btnOuiActionPerformed
 
     /**

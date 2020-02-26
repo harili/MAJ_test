@@ -21,10 +21,10 @@ public class FSaveMAJ extends javax.swing.JFrame {
 //          Vue de l'interface de sauvegarde de la BDD et dossier eXfiles
 //     ********************************************************
     
-   ScriptExfilesDAO uneSave;
-   String path = null;
-   String filename;
-   Connection cnx;
+   ScriptExfilesDAO uneSave; //constructeur 
+   String path = null; //chemin
+   String filename; //nom fichier
+   Connection cnx; //connexion
    
    
     public FSaveMAJ() {
