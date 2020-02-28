@@ -33,6 +33,8 @@ public class UtilisateurDAO extends DAO implements IUtilisateurDAO{
             cnx = DBConnexion.ConnectDB(); //connexion bdd
             prepared = cnx.prepareStatement(sql); //instruction paramétrée avec une reuqête SQL déjà compilée
             prepared.setString(1,unUtilisateur.getLogin()); //définit le paramètre selon le string donné 
+            
+            
             prepared.setString(2,unUtilisateur.getMdp()); //définit le paramètre selon le string donné 
 
             resultat = prepared.executeQuery(); //exécute la requête

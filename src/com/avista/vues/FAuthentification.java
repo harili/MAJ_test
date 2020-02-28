@@ -5,6 +5,7 @@
  */
 package com.avista.vues;
 import com.avista.controleurs.UtilisateurControleur;
+import com.avista.dao.Cryptage;
 import com.avista.dao.UtilisateurDAO;
 import java.awt.Dimension;
 import java.awt.Event;
@@ -143,7 +144,9 @@ public class FAuthentification extends javax.swing.JFrame {
 //     **************************************************************
     
     private void btnConnexionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnConnexionActionPerformed
-        String res = unUtilisateurControleur.authentifierUtilisateur(txtLogin.getText(), txtMdp.getText()); //saisis des identifiants
+        Cryptage cipherUtil = new Cryptage();
+        String mdpDecrypte = cipherUtil.encrypt(txtMdp.getText());
+        String res = unUtilisateurControleur.authentifierUtilisateur(txtLogin.getText(), mdpDecrypte); //saisis des identifiants
         lblMessageConnexion.setText(res); //écrire s'il y a une erreur
 
         if(res.equals("Ok")){   //si c'est bon

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<context>
+  <Resource typeConn="SQL Server" nomBDD="exfilesACTIA" username="sa" password="nARQJ1RviYXcSTPOxsHq4g" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" url="jdbc:sqlserver://DESKTOP-42B3ERG;database=exfilesACTIA" />
+  <Chemin file="XFiles\Export\" fileSauve="XFiles\Export\" />
+</context>

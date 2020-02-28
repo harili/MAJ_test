@@ -124,15 +124,13 @@ public class FMajEx extends javax.swing.JFrame {
      */
     private void btnChoisir2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnChoisir2ActionPerformed
 
-          
           if(uneMajEx.versionAjour(complet)){ //Si la version correspondant à la dernière
-              FVersionAJour unFenet = new FVersionAJour(); //ouverture de la fenêtre
-              unFenet.setVisible(true);
-          }
-          else{
-            uneMajEx.controleScript(complet); // sinon, ouverture de la fenêtre d'exécution des requêtes du script.
-          }
-    
+                FVersionAJour unFenet = new FVersionAJour(); //ouverture de la fenêtre
+                unFenet.setVisible(true);
+            }
+            else{
+              uneMajEx.controleScript(complet); // sinon, ouverture de la fenêtre d'exécution des requêtes du script.
+            }
 
 
     }//GEN-LAST:event_btnChoisir2ActionPerformed
