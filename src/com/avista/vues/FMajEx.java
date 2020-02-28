@@ -54,7 +54,7 @@ public class FMajEx extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\chafy\\Desktop\\avist.png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Ressources/avist.png"))); // NOI18N
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(12, 13, -1, -1));
 
         jLabel2.setText("Veuillez choisir le script permettant la mise à jour de l'application eXfiles.");
@@ -76,10 +76,10 @@ public class FMajEx extends javax.swing.JFrame {
         });
         jPanel1.add(txtNomFichier, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 70, 230, -1));
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\chafy\\Desktop\\bandebleu.PNG")); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Ressources/bandebleu.PNG"))); // NOI18N
         jPanel1.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 230, 330, 30));
 
-        jLabel8.setIcon(new javax.swing.ImageIcon("C:\\Users\\chafy\\Desktop\\bandebleu.PNG")); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Ressources/bandebleu.PNG"))); // NOI18N
         jPanel1.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 230, 340, 30));
 
         btnChoisir1.setText("Choisir Script...");
