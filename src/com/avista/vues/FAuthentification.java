@@ -6,9 +6,12 @@
 package com.avista.vues;
 import com.avista.controleurs.UtilisateurControleur;
 import com.avista.dao.Cryptage;
+import com.avista.dao.ScriptExfilesDAO;
 import com.avista.dao.UtilisateurDAO;
 import java.awt.Dimension;
 import java.awt.Event;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 /**
  *
  * @author chafy
@@ -18,6 +21,7 @@ public class FAuthentification extends javax.swing.JFrame {
     //On instancie un objet de type UtilisateurControleur
     UtilisateurControleur unUtilisateurControleur = new UtilisateurControleur();
     UtilisateurDAO unUtilisateurDAO = new UtilisateurDAO();
+    final static Logger logger = LogManager.getLogger(FAuthentification.class);
 
     /**
      * Creates new form FAuthentification
@@ -150,7 +154,7 @@ public class FAuthentification extends javax.swing.JFrame {
     }//GEN-LAST:event_txtMdpActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        this.setVisible(false);
+        System.exit(0);
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**

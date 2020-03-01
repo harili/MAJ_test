@@ -11,6 +11,8 @@ import java.sql.CallableStatement;
 import java.sql.*;
 import javax.swing.*;
 import java.awt.Dimension;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 /**
  *
  * @author chafy
@@ -25,6 +27,8 @@ public class FSaveMAJ extends javax.swing.JFrame {
    String path = null; //chemin
    String filename; //nom fichier
    Connection cnx; //connexion
+   final static Logger logger = LogManager.getLogger(FSaveMAJ.class);
+   DBConnexion uneConnex = new DBConnexion();
    
    
     public FSaveMAJ() {
@@ -105,7 +109,8 @@ public class FSaveMAJ extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnSaveActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSaveActionPerformed
-        String sql = "exec p1"; //string de la requête d'exécution de la procédure présente dans sql server
+        executeProcedureSave();
+        String sql = "exec sauvegardeExfiles"; //string de la requête d'exécution de la procédure présente dans sql server
         cnx = DBConnexion.ConnectDB(); //connexion à la bdd
         
         try{
@@ -124,7 +129,40 @@ public class FSaveMAJ extends javax.swing.JFrame {
      
         }
     }//GEN-LAST:event_btnSaveActionPerformed
-
+    public void executeProcedureSave(){
+        cnx = DBConnexion.ConnectDB(); //connexion bdd
+        try{
+        String createProcedure = "CREATE OR ALTER PROCEDURE [dbo].[sauvegardeExfiles]"+
+                                  "as "+
+                                   "DECLARE @nom VARCHAR(50) "+
+                                    "DECLARE @path VARCHAR(256) "
+                                    +"DECLARE @fileNom VARCHAR(256) "+
+                                    "DECLARE @date VARCHAR(20) "
+                                    +"SET @path = 'C:\\Program Files\\Microsoft SQL Server\\MSSQL14.MSSQLSERVER\\MSSQL\\Backup\\' "
+                                    +
+                                    "SELECT @date = CONVERT(VARCHAR(20),GETDATE(),112) "+
+                                    "DECLARE db_cursor CURSOR FOR "
+                                    +"SELECT name "+
+                                    "FROM master.dbo.sysdatabases "+
+                                    "WHERE name NOT IN ('tempdb','master','model','msdb') "+
+                                    "AND name = '"+uneConnex.getNomBDD()+"'"+
+                                    "OPEN db_cursor "
+                                    +"FETCH NEXT FROM db_cursor INTO @nom "+
+                                    "WHILE @@FETCH_STATUS = 0 "+
+                                    "BEGIN "+
+                                    "SET @fileNom = @path + @nom + '_BDD_' + @date + '.BAK' "+
+                                    "BACKUP DATABASE @nom TO DISK = @fileNom "
+                                    +"FETCH NEXT FROM db_cursor INTO @nom "
+                                    +"END "
+                                    +"CLOSE db_cursor "+
+                                    "DEALLOCATE db_cursor";
+        Statement stmt = cnx.createStatement();
+        stmt.executeUpdate(createProcedure);
+        }catch(SQLException e){
+            logger.error(e);
+         }                         
+    
+    }
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         FMajEx fenMaj = new FMajEx();
        

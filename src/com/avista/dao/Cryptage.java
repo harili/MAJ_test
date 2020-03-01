@@ -21,7 +21,7 @@ import org.apache.commons.codec.binary.Hex;
 
 /**
  *
- * @author SEKKAI Enzo
+ * @author Chafy 
  */
 public class Cryptage {
     

@@ -58,14 +58,16 @@ public class MajExControleur {
              String message = ""; // message
 
              for(String uneRequete : listRequete){ //parcours de la liste des requêtes 
-                 message += uneRequete +" "+" est en cours d'exécution"; // 
-                 uneMajExDAO.executeRequete(uneRequete); //appel de la fonction DAO permettant l'exécution d'une requête 
-                 message += "  |  " + "  l'exécution a bien été effectué "; //fin
                  
-                 fenetScript.getTxtScript().setText(message); //écriture du message
+                 uneMajExDAO.executeRequete(uneRequete); //appel de la fonction DAO permettant l'exécution d'une requête 
+                 
+                 
+                 
           
                  
              }
+             message = "les requêtes ont bien été exécutées";
+             fenetScript.getTxtScript().setText(message); //écriture du message
          }
          
          

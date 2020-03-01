@@ -6,8 +6,12 @@
 package com.avista.vues;
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
+import java.io.IOException;
 
 import com.avista.controleurs.MajExControleur;
+import com.avista.dao.MajExDAO;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 
 /**
  *
@@ -18,6 +22,7 @@ import com.avista.controleurs.MajExControleur;
 public class FMajEx extends javax.swing.JFrame {
     private String complet;
     MajExControleur uneMajEx = new MajExControleur();
+     final static Logger logger = LogManager.getLogger(FMajEx.class); //Logger qui recense les événements  
     /**
      * Creates new form FMajEx
      */
@@ -123,7 +128,7 @@ public class FMajEx extends javax.swing.JFrame {
      * lecture du script permettant l'upgrade de la version d'eXfiles
      */
     private void btnChoisir2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnChoisir2ActionPerformed
-
+        try{
           if(uneMajEx.versionAjour(complet)){ //Si la version correspondant à la dernière
                 FVersionAJour unFenet = new FVersionAJour(); //ouverture de la fenêtre
                 unFenet.setVisible(true);
@@ -131,6 +136,10 @@ public class FMajEx extends javax.swing.JFrame {
             else{
               uneMajEx.controleScript(complet); // sinon, ouverture de la fenêtre d'exécution des requêtes du script.
             }
+        }catch(Exception e){
+            logger.error(e);
+        }
+          
 
 
     }//GEN-LAST:event_btnChoisir2ActionPerformed

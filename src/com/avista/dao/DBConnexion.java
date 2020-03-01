@@ -105,7 +105,9 @@ public class DBConnexion {
         }finally{return conn;}
     }
 
-    
+    public String getNomBDD(){
+        return nomBDD;
+    }
 //    Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver"); //méthode qui retourne la classe de l'objet assoccié au string
 //        if(conn==null){ //si la connexion est null
 //            conn = DriverManager.getConnection("jdbc:sqlserver://localhost:1433;databaseName=exfiles;integratedSecurity=true;","LAPTOP-O6TEJHR5\\chafy",""); //récupérer les informations de la connexion (serveur, BDD...)
