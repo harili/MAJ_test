@@ -120,7 +120,7 @@ public class FSaveMAJ extends javax.swing.JFrame {
         JOptionPane.showMessageDialog(null,"La sauvegarde a été effectué");
         this.setVisible(false);
         fenMaj.setVisible(true);
-
+        logger.debug("Sauvegarde effectuée");
         
         
         
@@ -133,7 +133,14 @@ public class FSaveMAJ extends javax.swing.JFrame {
         cnx = DBConnexion.ConnectDB(); //connexion bdd
         try{
             //Procédure permettant la sauvegarde
-        String createProcedure = "CREATE OR ALTER PROCEDURE [dbo].[sauvegardeExfiles]"+
+            
+        String createProcedure = "USE ["+uneConnex.getNomBDD()+"] "+
+                                "GO "+
+                                "SET ANSI_NULLS ON "+
+                                "GO "+
+                                "SET QUOTED_IDENTIFIER ON "+
+                                "GO "+
+                                "CREATE PROCEDURE [dbo].[sauvegardeExfiles] "+
                                   "as "+
                                    "DECLARE @nom VARCHAR(50) "+
                                     "DECLARE @path VARCHAR(256) "
