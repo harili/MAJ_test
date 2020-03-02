@@ -70,3 +70,72 @@ Réussite de la connexion de l'utilisateur
 
 Réussite de l'exécution des requêtes
   -> DEBUG 02/03/20 12:19:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 02/03/20 14:02:37 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 02/03/20 14:02:37 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Syntaxe incorrecte vers 'GO'.
+  -> ERROR 02/03/20 14:02:40 - com.avista.vues.FSaveMAJ.executeProcedureSave(FSaveMAJ.java:170)
+
+Sauvegarde effectuée
+  -> DEBUG 02/03/20 14:02:43 - com.avista.vues.FSaveMAJ.btnSaveActionPerformed(FSaveMAJ.java:123)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 02/03/20 14:04:27 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 02/03/20 14:04:27 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Syntaxe incorrecte vers 'GO'.
+  -> ERROR 02/03/20 14:04:29 - com.avista.vues.FSaveMAJ.executeProcedureSave(FSaveMAJ.java:170)
+
+Sauvegarde effectuée
+  -> DEBUG 02/03/20 14:04:32 - com.avista.vues.FSaveMAJ.btnSaveActionPerformed(FSaveMAJ.java:123)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 02/03/20 14:06:16 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 02/03/20 14:06:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 02/03/20 14:12:56 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 02/03/20 14:12:56 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Sauvegarde effectuée
+  -> DEBUG 02/03/20 14:13:00 - com.avista.vues.FSaveMAJ.btnSaveActionPerformed(FSaveMAJ.java:123)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 02/03/20 14:19:51 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 02/03/20 14:19:51 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Sauvegarde effectuée
+  -> DEBUG 02/03/20 14:20:02 - com.avista.vues.FSaveMAJ.btnSaveActionPerformed(FSaveMAJ.java:123)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 02/03/20 14:22:31 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 02/03/20 14:22:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Sauvegarde effectuée
+  -> DEBUG 02/03/20 14:22:37 - com.avista.vues.FSaveMAJ.btnSaveActionPerformed(FSaveMAJ.java:123)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 02/03/20 16:42:48 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 02/03/20 16:42:48 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de la connexion de l'utilisateur
+  -> DEBUG 02/03/20 16:45:57 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 02/03/20 16:45:57 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)

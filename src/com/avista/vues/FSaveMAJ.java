@@ -134,20 +134,13 @@ public class FSaveMAJ extends javax.swing.JFrame {
         try{
             //Procédure permettant la sauvegarde
             
-        String createProcedure = "USE ["+uneConnex.getNomBDD()+"] "+
-                                "GO "+
-                                "SET ANSI_NULLS ON "+
-                                "GO "+
-                                "SET QUOTED_IDENTIFIER ON "+
-                                "GO "+
-                                "CREATE PROCEDURE [dbo].[sauvegardeExfiles] "+
+        String createProcedure = "CREATE OR ALTER PROCEDURE [dbo].[sauvegardeExfiles] "+
                                   "as "+
                                    "DECLARE @nom VARCHAR(50) "+
                                     "DECLARE @path VARCHAR(256) "
                                     +"DECLARE @fileNom VARCHAR(256) "+
                                     "DECLARE @date VARCHAR(20) "
-                                    +"SET @path = 'C:\\Program Files\\Microsoft SQL Server\\MSSQL14.MSSQLSERVER\\MSSQL\\Backup\\' "
-                                    +
+                                    +"SET @path = 'C:\\XFiles\\Logs\\' "+
                                     "SELECT @date = CONVERT(VARCHAR(20),GETDATE(),112) "+
                                     "DECLARE db_cursor CURSOR FOR "
                                     +"SELECT name "+
@@ -163,7 +156,7 @@ public class FSaveMAJ extends javax.swing.JFrame {
                                     +"FETCH NEXT FROM db_cursor INTO @nom "
                                     +"END "
                                     +"CLOSE db_cursor "+
-                                    "DEALLOCATE db_cursor";
+                                    "DEALLOCATE db_cursor ";
         Statement stmt = cnx.createStatement();
         stmt.executeUpdate(createProcedure);
         }catch(SQLException e){

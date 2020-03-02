@@ -29,7 +29,8 @@ public class MajExDAO extends DAO implements IMajExDAO {
     	try {
             logger.debug("Début d'exécution des requêtes : " ); // Suivi de la requête
 	    	for(String uneRequete : listRequete){ //parcours les lignes du script
-
+                            
+                   
                         
 			prepared = cnx.prepareStatement(uneRequete); // exécute la reuqête
 			prepared.executeUpdate(); //met à jour la BDD

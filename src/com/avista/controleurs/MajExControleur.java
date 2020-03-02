@@ -12,8 +12,10 @@ import java.util.ArrayList;
 import com.avista.dao.MajExDAO;
 import com.avista.dao.PiniDAO;
 import com.avista.vues.FScriptExecute;
+import javax.swing.JOptionPane;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
+import com.avista.vues.FMajEx;
 
 /**
  *
@@ -36,43 +38,47 @@ public class MajExControleur {
         
         BufferedReader br = null; //variabale lecture texte
         ArrayList<String> listRequete = new ArrayList<String>(); //création d'une liste
- 
+        int i=0;
         try {
          String sCurrentLine; //ligne courante
          br = new BufferedReader(new FileReader(chemin)); //lecture du fichier
          String ligneFinale = ""; //dernière ligne lue
          
          while ((sCurrentLine = br.readLine()) != null) { //tant que la ligne courante n'est pas vide
+         
             if(!sCurrentLine.startsWith("--") && !sCurrentLine.equals("GO") && !sCurrentLine.equals("/") 
                     && !sCurrentLine.equals("*")){ //ne pas prendre en compte ces caractères
                 
                 ligneFinale = ligneFinale.concat(sCurrentLine); //concaténation de la chaine vide avec la ligne courante
                 if(sCurrentLine.contains(";")){ //s'il y a présence du ";"
-                    
+                    i++;
                     listRequete.add(ligneFinale); //ajouter celle - ci à la liste
                     ligneFinale = ""; //réinitialisation    
                 }                 
             }          
          }
-         
-         if(!listRequete.isEmpty()){ //si la liste est vide
-             fenetScript.setVisible(true); //affichage du form 
-             String message = ""; // message
-
-             for(String uneRequete : listRequete){ //parcours de la liste des requêtes 
-                 
-                 uneMajExDAO.executeRequete(uneRequete); //appel de la fonction DAO permettant l'exécution d'une requête 
-                 
-                 
-                 
-          
-                 
-             }
-             message = "les requêtes ont bien été exécutées";
-             fenetScript.getTxtScript().setText(message); //écriture du message
+         if(i==0){
+             JOptionPane.showMessageDialog(null,"Le script selectionné est vide. Choisir un script correct ");
+             FMajEx uneMaj = new FMajEx();
+             uneMaj.setVisible(true);
+             
          }
+         else{
          
          
+            if(!listRequete.isEmpty()){ //si la liste est vide
+                fenetScript.setVisible(true); //affichage du form 
+                String message = ""; // message
+
+                for(String uneRequete : listRequete){ //parcours de la liste des requêtes 
+
+                    uneMajExDAO.executeRequete(uneRequete); //appel de la fonction DAO permettant l'exécution d'une requête     
+                }
+                message = "les requêtes ont bien été exécutées";
+                fenetScript.getTxtScript().setText(message); //écriture du message
+            }
+         
+         }
 
         } catch (IOException e) {
          logger.error(e);
