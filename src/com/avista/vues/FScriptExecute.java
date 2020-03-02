@@ -87,6 +87,7 @@ public class FScriptExecute extends javax.swing.JFrame {
 
     private void btnOuiActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnOuiActionPerformed
         FPreMAJ unFenet = new FPreMAJ();
+        setVisible(false);
         unFenet.setVisible(true);
     }//GEN-LAST:event_btnOuiActionPerformed
 

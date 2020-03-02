@@ -27,14 +27,17 @@ public class MajExDAO extends DAO implements IMajExDAO {
         cnx = DBConnexion.ConnectDB(); //connexion bdd
         
     	try {
+            logger.debug("Début d'exécution des requêtes : " ); // Suivi de la requête
 	    	for(String uneRequete : listRequete){ //parcours les lignes du script
 
-                        logger.debug("Début d'exécution de la requête : " + uneRequete ); // Suivi de la requête
+                        
 			prepared = cnx.prepareStatement(uneRequete); // exécute la reuqête
 			prepared.executeUpdate(); //met à jour la BDD
                         
-                        logger.debug("Fin d'exécution de la requête");
+                        
                 }
+            logger.debug("Fin d'exécution de la requête");
+                        
 	} catch (SQLException e) {
                 
 		logger.error(e);//s'il y a une erreur

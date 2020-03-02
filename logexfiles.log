@@ -1,81 +1,1998 @@
 
 Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:14:23 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 20:35:29 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:14:23 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+  -> DEBUG 01/03/20 20:35:29 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:30 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:36:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
 Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:16:10 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 20:37:53 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:16:10 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+  -> DEBUG 01/03/20 20:37:53 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
 Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:17:28 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 20:38:33 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:17:28 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+  -> DEBUG 01/03/20 20:38:33 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
-com.microsoft.sqlserver.jdbc.SQLServerException: Syntaxe incorrecte vers 'asDECLARE'.
-  -> ERROR 01/03/20 15:17:30 - com.avista.vues.FSaveMAJ.executeProcedureSave(FSaveMAJ.java:160)
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:54 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:54 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:54 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:38:55 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
 Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:19:32 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 20:43:41 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:19:32 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+  -> DEBUG 01/03/20 20:43:42 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:36 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Début d'exécution de la requête : ALTER TABLE T_PIVOTALTER COLUMN NBDecimMontantMouv char(3);
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Syntaxe incorrecte vers le mot clé 'COLUMN'.
+  -> ERROR 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : ALTER TABLE T_PIVOT_FILTREALTER COLUMN NBDecimMontantMouv char(3);
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Syntaxe incorrecte vers le mot clé 'COLUMN'.
+  -> ERROR 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : update t_rubr_filtre set sourcePivotRDC=19 where codeRubFiltre='RIB';
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+Fin d'exécution de la requête
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:64)
+
+Début d'exécution de la requête : update t_rubr_filtre set sourcePivotRDC=38 where codeRubFiltre='CODE_FLUX';
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+Fin d'exécution de la requête
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:64)
+
+Début d'exécution de la requête : delete from p_ini where codeIni='version';
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+Fin d'exécution de la requête
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:64)
+
+Début d'exécution de la requête : insert into p_ini(codeIni, valeurIni) values('version', '4.0.11');
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+Fin d'exécution de la requête
+  -> DEBUG 01/03/20 20:44:37 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:64)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:44:56 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
 Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:21:45 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 20:49:59 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:21:46 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+  -> DEBUG 01/03/20 20:49:59 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
-com.microsoft.sqlserver.jdbc.SQLServerException: Il existe déjà un objet nommé 'sauvegardeExfiles' dans la base de données.
-  -> ERROR 01/03/20 15:21:48 - com.avista.vues.FSaveMAJ.executeProcedureSave(FSaveMAJ.java:160)
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:13 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:14 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:17 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:18 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:19 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Début d'exécution de la requête : SET IDENTITY_INSERT [dbo].[p_ini] ON INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (1, N'typeBDD', N'SQL Server')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (2, N'serveurBDD', N'')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (3, N'nomBDD', N'')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (4, N'nomUtilBDD', N'')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (6, N'mdpBDD', N'')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (8, N'cheminRDC', N'')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (9, N'cheminFRP', N'')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (17, N'serveurSMTP', N'smtp.office365.com')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (18, N'portSMTP', N'587')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (19, N'userSMTP', N'support@avista.fr')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (20, N'mdpSMTP', N'nARQJ1RviYXcSTPOxsHq4g')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (21, N'Licence_Key', N'')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (22, N'Licence_Expiry', N'')INSERT [dbo].[p_ini] ([idIni], [codeIni], [valeurIni]) VALUES (23, N'Licence_Client', N'')INSERT INTO [P_INI] (idIni, codeIni, valeurIni) VALUES (16, 'actifSMTP', 'non');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Violation de la contrainte PRIMARY KEY « primary key13 ». Impossible d'insérer une clé en double dans l'objet « dbo.P_INI ». Valeur de clé dupliquée : (1).
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into [P_INI] (idIni, codeIni, valeurIni) values (24, 'MaxEntry', '-1');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into [P_INI] (idIni, codeIni, valeurIni) values (25, 'CurrentEntry', '0');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into [P_INI] (idIni, codeIni, valeurIni) values (26, 'DerniereConnexion', '01012000');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini (idIni, codeIni, valeurIni) values (27, 'Zone Annexe 1', 'Zone Annexe 1');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini (idIni, codeIni, valeurIni) values (28, 'Zone Annexe 2', 'Zone Annexe 2');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini (idIni, codeIni, valeurIni) values (29, 'Zone Annexe 3', 'Zone Annexe 3');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini (idIni, codeIni, valeurIni) values (30, 'Zone Annexe 4', 'Zone Annexe 4');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini (idIni, codeIni, valeurIni) values (31, 'Zone Annexe 5', 'Zone Annexe 5');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini (idIni, codeIni, valeurIni) values (32, 'Zone Annexe 6', 'Zone Annexe 6');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini (idIni, codeIni, valeurIni) values (33, 'Zone Annexe 7', 'Zone Annexe 7');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini (idIni, codeIni, valeurIni) values (34, 'Zone Annexe 8', 'Zone Annexe 8');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini (idIni, codeIni, valeurIni) values (35, 'Zone Annexe 9', 'Zone Annexe 9');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini (idIni, codeIni, valeurIni) values (36, 'Zone Annexe 10', 'Zone Annexe 10');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : insert into p_ini(idIni, codeIni, valeurIni) values(37, 'version', '4.0.12');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Impossible d'insérer une valeur explicite dans la colonne identité de la table 'P_INI' quand IDENTITY_INSERT est défini à OFF.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Début d'exécution de la requête : SET IDENTITY_INSERT [dbo].[p_ini] OFFINSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (1, N'CodeEnreg', N'Code Enreg', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (2, N'CodeBanque', N'Code Banque', N'p_banque')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (3, N'ZoneReservee1', N'Zone réservée 1', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (4, N'CodeGuichet', N'Code guichet', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (5, N'CodeDeviseCompte', N'Code devise CPT', N'p_devise')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (6, N'CodeDeviseMVT', N'Code devise MVT', N'p_devise')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (7, N'NBDecimSolde', N'Nb décim solde', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (8, N'ZoneReservee2', N'Zone réservée 2', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (9, N'ZoneReservee3', N'Zone réservée 3', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (10, N'ZoneReservee4', N'Zone réservée 4', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (11, N'ZoneReservee5', N'Zone réservée 5', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (12, N'NumCompte', N'Num compte', N',p_cpttreso')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (13, N'DateSoldeInit', N'Date solde initial', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (14, N'MontantSoldeInit', N'Mnt solde init', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (15, N'CodeOpeInterne', N'Code opé interne', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (16, N'CodeGuichetCompteOuvert', N'Code guichet', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (17, N'CodeOperatInterban', N'Code opé interb', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (18, N'DateComptaOperat', N'Date compta', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (19, N'CodeMotifRejet', N'Code motif rejet', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (20, N'DateValeur', N'Date de valeur', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (21, N'Libelle', N'Libellé', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (22, N'NumEcriture', N'Num écriture', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (23, N'IndiceExoneMouv', N'Indice exonérat', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (24, N'IndiceIndispo', N'Indice indispo', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (25, N'MontantMouvement', N'Mnt mouvement', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (26, N'NBDecimMontantMouv', N'NB décim mvt', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (27, N'QualifiantZoneInfoCompl', N'Qualif Info Comp', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (28, N'InfoComplem', N'Infos comp', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (29, N'DateSoldeFinal', N'Date solde final', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (30, N'MontantSoldeFinal', N'Mnt solde final', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (31, N'Flux', N'Flux', N'p_fluxtreso')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (32, N'Reference', N'Référence', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (33, N'CodeBudget', N'Code budget', N'p_budgettreso')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (34, N'Nombre', N'Nombre', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (35, N'Frais', N'Frais', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (36, N'NumJournalTreso', N'Num de journal', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (37, N'NumSite', N'Num de site', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (38, N'NumLog', N'Num de log', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (39, N'DateFin', N'Date de fin', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (40, N'MontantCVal', N'Mnt transaction', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (41, N'Sens', N'Sens', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (42, N'Supp', N'Suppression', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (43, N'NumEcritERP', N'Num Ecriture', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (44, N'InfoComp1', N'Infos comp 1', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (45, N'InfoComp2', N'Infos comp 2', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (46, N'InfoComp3', N'Infos comp 3', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (47, N'InfoComp4', N'Infos comp 4', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (48, N'InfoComp5', N'Infos comp 5', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (49, N'InfoComp6', N'Infos comp 6', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (50, N'InfoComp7', N'Infos comp 7', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (51, N'InfoComp8', N'Infos comp 8', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (52, N'InfoComp9', N'Infos comp 9', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (53, N'InfoComp10', N'Infos comp 10', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (54, N'InfoComp11', N'Infos comp 11', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (55, N'InfoComp12', N'Infos comp 12', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (56, N'InfoComp13', N'Infos comp 13', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (57, N'InfoComp14', N'Infos comp 14', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (58, N'InfoComp15', N'Infos comp 15', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (59, N'InfoComp16', N'Infos comp 16', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (60, N'InfoComp17', N'Infos comp 17', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (61, N'InfoComp18', N'Infos comp 18', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (62, N'InfoComp19', N'Infos comp 19', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (63, N'InfoComp20', N'Infos comp 20', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (64, N'InfoComp21', N'Infos comp 21', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (65, N'InfoComp22', N'Infos comp 22', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (66, N'InfoComp23', N'Infos comp 23', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (67, N'InfoComp24', N'Infos comp 24', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (68, N'ZoneUtil1', N'ZU 1', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (69, N'ZoneUtil2', N'ZU 2', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (70, N'ZoneUtil3', N'ZU 3', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (71, N'ZoneUtil4', N'ZU 4', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (72, N'ZoneUtil5', N'ZU 5', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (75, N'eXfilesCodeSociete', N'Code Société du paramétrage eXfiles', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (76, N'eXfilesCodeBanque', N'Code Banque du paramétrage eXfiles', N'p_banque')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (77, N'eXfilesCodeCompte', N'Code Compte du paramétrage eXfiles', N'p_cpttreso')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (78, N'eXfilesCodeJournal', N'Code Journal du paramétrage eXfiles', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (79, N'eXfilesCodeEtablissement', N'Code Etablissement du paramétrage eXfiles', N'p_etablissement')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (80, N'eXfilesIdentifiantCompte', N'Identifiant Compte du paramétrage eXfiles', '')INSERT [dbo].[t_defpivot] ([idDefPivot], [codeDefPivot], [descriptionDefPivot], [lieA]) VALUES (81, N'eXfilesNatureFlux', N'Nature du flux ou du CIB du paramétrage eXfiles', N'p_fluxtreso')SET IDENTITY_INSERT [dbo].[T_DEFSCHEMA] ON INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (1, N'Compte', N'Compte')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (3, N'Montant', N'Montant')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (4, N'Sens', N'Sens')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (5, N'CodeJournal', N'Code Journal')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (6, N'Libellé', N'Libellé')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (7, N'LibelleExfiles', N'Libellé composé Exfiles')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (8, N'Reference', N'Référence')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (9, N'ZA1', N'Zone Annexe 1')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (10, N'ZA2', N'Zone Annexe 2')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (11, N'ZA3', N'Zone Annexe 3')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (12, N'ZA4', N'Zone Annexe 4')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (13, N'ZA5', N'Zone Annexe 5')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (14, N'ZA6', N'Zone Annexe 6')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (15, N'ZA7', N'Zone Annexe 7')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (16, N'ZA8', N'Zone Annexe 8')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (17, N'ZA9', N'Zone Annexe 9')INSERT [dbo].[T_DEFSCHEMA] ([idDefSchema], [codeDefSchema], [descriptionDefSchema]) VALUES (18, N'ZA10', N'Zone Annexe 10')SET IDENTITY_INSERT [dbo].[T_DEFSCHEMA] OFFINSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'CODE_ANALYTIQUE_1', N'Code Analytique1', N'S', N'FRP', N'', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'CODE_ANALYTIQUE_2', N'Code Analytique2', N'S', N'FRP', N'', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'CODE_ANALYTIQUE_3', N'Code Analytique3', N'S', N'FRP', N'', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'CODE_ANALYTIQUE_4', N'Code Analytique4', N'S', N'FRP', N'', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'CODE_ANALYTIQUE_5', N'Code Analytique5', N'S', N'FRP', N'', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'CODE_BUDGET', N'Code budget', N'E', N'FRP', N'p_budgettreso', 40, 40)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'CODE_FLUX', N'Code Flux', N'E', N'FRP', N'p_fluxtreso', 24, 38)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'CODE_SOCIETE', N'Code société', N'E', N'FRP', N'p_societe', 82, 82)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'CODE_TIERS', N'Code Tiers', N'S', N'RDC', N'', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'COMPTE', N'Compte', N'S', N'FRP/RDC', N'p_cptcompta', 19, 19)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'COMPTE_CONT', N'Compte de contrepartie', N'S', N'RDC', N'p_cptcompta', 19, 19)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'CPTE_FRP', N'Code compte Tréso', N'E', N'FRP', N'p_cpttreso', 19, 19)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'DEVISE', N'Devise', N'S', N'FRP/RDC', N'p_devise', 13, 13)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'ETABLISSEMENT', N'Etablissement', N'S', N'FRP', N'p_etablissement', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'IBAN', N'IBAN', N'E', N'RDC', N'p_cpttreso', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_1', N'Information complémentaire 1', N'E', N'FRP/RDC', N'', 51, 51)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_10', N'Information complémentaire 10', N'E', N'FRP/RDC', N'', 60, 60)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_11', N'Information complémentaire 11', N'E', N'FRP/RDC', N'', 61, 61)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_12', N'Information complémentaire 12', N'E', N'FRP/RDC', N'', 62, 62)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_13', N'Information complémentaire 13', N'E', N'FRP/RDC', N'', 63, 63)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_14', N'Information complémentaire 14', N'E', N'FRP/RDC', N'', 64, 64)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_15', N'Information complémentaire 15', N'E', N'FRP/RDC', N'', 65, 65)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_16', N'Information complémentaire 16', N'E', N'FRP/RDC', N'', 66, 66)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_17', N'Information complémentaire 17', N'E', N'FRP/RDC', N'', 67, 67)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_18', N'Information complémentaire 18', N'E', N'FRP/RDC', N'', 68, 68)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_19', N'Information complémentaire 19', N'E', N'FRP/RDC', N'', 69, 69)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_2', N'Information complémentaire 2', N'E', N'FRP/RDC', N'', 52, 52)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_20', N'Information complémentaire 20', N'E', N'FRP/RDC', N'', 70, 70)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_21', N'Information complémentaire 21', N'E', N'FRP/RDC', N'', 71, 71)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_22', N'Information complémentaire 22', N'E', N'FRP/RDC', N'', 72, 72)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_23', N'Information complémentaire 23', N'E', N'FRP/RDC', N'', 73, 73)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_24', N'Information complémentaire 24', N'E', N'FRP/RDC', N'', 74, 74)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_3', N'Information complémentaire 3', N'E', N'FRP/RDC', N'', 53, 53)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_4', N'Information complémentaire 4', N'E', N'FRP/RDC', N'', 54, 54)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_5', N'Information complémentaire 5', N'E', N'FRP/RDC', N'', 55, 55)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_6', N'Information complémentaire 6', N'E', N'FRP/RDC', N'', 56, 56)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_7', N'Information complémentaire 7', N'E', N'FRP/RDC', N'', 57, 57)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_8', N'Information complémentaire 8', N'E', N'FRP/RDC', N'', 58, 58)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_9', N'Information complémentaire 9', N'E', N'FRP/RDC', N'', 59, 59)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'INFO_COMPLEMENTAIRE_TOUTES', N'Toutes les informations complémentaires', N'E', N'FRP//RDC', N'', 51, 51)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'JOURNAL', N'Code Journal', N'S', N'FRP/RDC', N'p_journal', 85, 85)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'LIBELLE', N'Libelle', N'E', N'FRP/RDC', N'', 28, 28)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'NATURE_COMPTABLE', N'Nature comptable', N'S', N'FRP/RDC', N'', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'REFERENCE', N'Référence', N'E', N'FRP', N'', 39, 39)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'RIB', N'RIB', N'E', N'RDC', N'p_cpttreso', 0, 19)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'SENS', N'Sens écriture', N'E', N'FRP', N'', 0, 48)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'SENS_512', N'Sens 512', N'S', N'FRP/RDC', N'', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'SENS_CONTREPARTIE', N'Sens de contrepartie', N'S', N'FRP/RDC', N'', 0, 0)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'ZU1', N'Zone Utilisateur 1', N'E', N'FRP', N'', 0, 75)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'ZU2', N'Zone Utilisateur 2 ', N'E', N'FRP', N'', 0, 76)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'ZU3', N'Zone Utilisateur 3', N'E', N'FRP', N'', 0, 77)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'ZU4', N'Zone Utilisateur 4', N'E', N'FRP', N'', 0, 78)INSERT [dbo].[t_rubr_corr] ([codeRubCorr], [libelleRubCorr], [typeRubCorr], [sourceRubCorr], [lieA], [sourcePivotRDC], [sourcePivotFRP]) VALUES (N'ZU5', N'Zone Utilisateur 5', N'E', N'FRP', N'', 0, 79)insert into t_rubr_corr(codeRubCorr, libelleRubCorr, typeRubCorr, sourceRubCorr, lieA, sourcePivotRDC, sourcePivotFRP) values ('CODE_BANQUE', 'Code Banque', 'E', 'FRP/RDC', 'p_banque', '83', '83');
+  -> DEBUG 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:60)
+
+com.microsoft.sqlserver.jdbc.SQLServerException: Syntaxe incorrecte vers 'OFFINSERT'.
+  -> ERROR 01/03/20 20:50:20 - com.avista.dao.MajExDAO.executeRequete(MajExDAO.java:68)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 20:51:12 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
 Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:31:05 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 21:08:16 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:31:05 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
-
-com.microsoft.sqlserver.jdbc.SQLServerException: Il existe déjà un objet nommé 'sauvegardeExfiles' dans la base de données.
-  -> ERROR 01/03/20 15:31:07 - com.avista.vues.FSaveMAJ.executeProcedureSave(FSaveMAJ.java:160)
-
-Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:34:15 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 21:08:16 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:34:15 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
-
-com.microsoft.sqlserver.jdbc.SQLServerException: Il existe déjà un objet nommé 'sauvegardeExfiles' dans la base de données.
-  -> ERROR 01/03/20 15:34:17 - com.avista.vues.FSaveMAJ.executeProcedureSave(FSaveMAJ.java:161)
-
-Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:37:31 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 21:08:39 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:37:31 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
-
-com.microsoft.sqlserver.jdbc.SQLServerException: Syntaxe incorrecte vers 'REPLACE'.
-  -> ERROR 01/03/20 15:37:33 - com.avista.vues.FSaveMAJ.executeProcedureSave(FSaveMAJ.java:161)
-
-Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:38:33 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 21:08:39 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:38:33 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
-
-Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:39:22 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 21:08:39 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:39:22 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
-
-Réussite de la connexion de l'utilisateur
-  -> DEBUG 01/03/20 15:44:20 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:44)
+  -> DEBUG 01/03/20 21:08:39 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
 
 Réussite de l'exécution des requêtes
-  -> DEBUG 01/03/20 15:44:20 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+  -> DEBUG 01/03/20 21:08:39 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:39 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:39 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)
+
+Réussite de l'exécution des requêtes
+  -> DEBUG 01/03/20 21:08:40 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)

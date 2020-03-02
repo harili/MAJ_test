@@ -129,13 +129,21 @@ public class FMajEx extends javax.swing.JFrame {
      */
     private void btnChoisir2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnChoisir2ActionPerformed
         try{
-          if(uneMajEx.versionAjour(complet)){ //Si la version correspondant à la dernière
-                FVersionAJour unFenet = new FVersionAJour(); //ouverture de la fenêtre
-                unFenet.setVisible(true);
+            if(complet==null || complet.equals("")){
+                JOptionPane.showMessageDialog(null,"Veuillez choisir un script SQL à exécuter");
             }
             else{
-              uneMajEx.controleScript(complet); // sinon, ouverture de la fenêtre d'exécution des requêtes du script.
+                if(uneMajEx.versionAjour(complet)){ //Si la version correspondant à la dernière
+                FVersionAJour unFenet = new FVersionAJour(); //ouverture de la fenêtre
+                setVisible(false);
+                unFenet.setVisible(true);
+                }
+                else{
+                    setVisible(false);
+                  uneMajEx.controleScript(complet); // sinon, ouverture de la fenêtre d'exécution des requêtes du script.
+                }
             }
+          
         }catch(Exception e){
             logger.error(e);
         }

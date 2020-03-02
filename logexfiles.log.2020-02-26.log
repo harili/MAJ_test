@@ -1,6 +1,0 @@
-
-Réussite de la connexion de l'utilisateur
-  -> DEBUG 26/02/20 16:37:43 - com.avista.dao.UtilisateurDAO.authentifierUtilisateur(UtilisateurDAO.java:42)
-
-Réussite de l'exécution des requêtes
-  -> DEBUG 26/02/20 16:37:43 - com.avista.dao.PiniDAO.VersionActuelle(PiniDAO.java:40)

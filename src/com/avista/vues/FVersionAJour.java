@@ -21,6 +21,7 @@ public class FVersionAJour extends javax.swing.JFrame {
         setResizable(false);
         this.setTitle("Exfiles_MAJ : Connexion");
         this.setSize(new Dimension(635, 265));
+        
         setLocationRelativeTo(null);
     }
 

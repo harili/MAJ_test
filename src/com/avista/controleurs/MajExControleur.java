@@ -12,6 +12,8 @@ import java.util.ArrayList;
 import com.avista.dao.MajExDAO;
 import com.avista.dao.PiniDAO;
 import com.avista.vues.FScriptExecute;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 
 /**
  *
@@ -21,7 +23,7 @@ public class MajExControleur {
     
     //création d'objets (constructeurs, vues..)
     PiniDAO unPiniDAO = new PiniDAO(); 
-    
+    final static Logger logger = LogManager.getLogger(MajExControleur.class); //Logger qui recense les événements   
     MajExDAO uneMajExDAO = new MajExDAO(); 
     FScriptExecute fenetScript = new FScriptExecute();
     
@@ -73,12 +75,12 @@ public class MajExControleur {
          
 
         } catch (IOException e) {
-         e.printStackTrace();
+         logger.error(e);
         } finally {
          try {
           if (br != null)br.close();
          } catch (IOException ex) {
-          ex.printStackTrace();
+          logger.error(ex);
          }
         }
     
@@ -105,15 +107,11 @@ public class MajExControleur {
                        res = true; //retourne vrai
 
                    }   
-                   
-                   
-                
-        }
+        
+            }
          
-         
-
         } catch (IOException e) {
-         e.printStackTrace();
+         logger.error(e);
         }finally{return res;}
     }
     

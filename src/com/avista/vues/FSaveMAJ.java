@@ -125,13 +125,14 @@ public class FSaveMAJ extends javax.swing.JFrame {
         
         
         }catch(Exception e){
-            e.printStackTrace();
+            logger.error(e);
      
         }
     }//GEN-LAST:event_btnSaveActionPerformed
     public void executeProcedureSave(){
         cnx = DBConnexion.ConnectDB(); //connexion bdd
         try{
+            //Procédure permettant la sauvegarde
         String createProcedure = "CREATE OR ALTER PROCEDURE [dbo].[sauvegardeExfiles]"+
                                   "as "+
                                    "DECLARE @nom VARCHAR(50) "+
@@ -145,7 +146,7 @@ public class FSaveMAJ extends javax.swing.JFrame {
                                     +"SELECT name "+
                                     "FROM master.dbo.sysdatabases "+
                                     "WHERE name NOT IN ('tempdb','master','model','msdb') "+
-                                    "AND name = '"+uneConnex.getNomBDD()+"'"+
+                                    "AND name = '"+uneConnex.getNomBDD()+"'"+ //Appel du getter récupérant le nom de la base de données
                                     "OPEN db_cursor "
                                     +"FETCH NEXT FROM db_cursor INTO @nom "+
                                     "WHILE @@FETCH_STATUS = 0 "+
@@ -165,7 +166,7 @@ public class FSaveMAJ extends javax.swing.JFrame {
     }
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         FMajEx fenMaj = new FMajEx();
-       
+        setVisible(false);
         fenMaj.setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
 
