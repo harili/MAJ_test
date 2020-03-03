@@ -62,6 +62,7 @@ public class MajExControleur {
              FMajEx uneMaj = new FMajEx();
              uneMaj.setVisible(true);
              
+             
          }
          else{
          
